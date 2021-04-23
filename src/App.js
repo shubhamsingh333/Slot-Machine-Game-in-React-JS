@@ -2,9 +2,9 @@ import React from "react";
 import "./index.css";
 
 const SlotM = () => {
-  let x: "1a";
-  let y: "1a";
-  let z: "1a";
+  let x:  '😸' ;
+  let y:  '😸' ;
+  let z:  '😸' ;
 
   if (x === y && y === z) {
     return (
